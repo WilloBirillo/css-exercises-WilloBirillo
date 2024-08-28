@@ -21,10 +21,6 @@ img {
 
 .item {
   width: 200px;
-  display: flex;
-  flex-direction: column;
-  margin: 32px;
-  align-items: center;
 }
 
 /* do not edit this footer */
